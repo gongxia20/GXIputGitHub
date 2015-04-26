@@ -1,0 +1,3 @@
+解压缩并复制到以下目录即可
+
+~/Library/Developer/Xcode/UserData/CodeSnippets
